@@ -9,7 +9,8 @@ import jakarta.validation.constraints.NotBlank;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-import pe.edu.upc.vitalia.vitalia_backend.shared.domain.aggregates.AuditableAbstractAggregateRoot;
+import pe.edu.upc.vitalsync.medibridge.shared.domain.aggregates.AuditableAbstractAggregateRoot;
+
 
 @Entity
 @Table(name = "doctors",
