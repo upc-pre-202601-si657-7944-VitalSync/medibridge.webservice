@@ -3,8 +3,8 @@ package pe.edu.upc.vitalsync.medibridge.messaging.application.internal.commandse
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
-import pe.edu.upc.vitalsync.medibridge.health_monitoring.infrastructure.persistence.jpa.repositories.DoctorRepository;
-import pe.edu.upc.vitalsync.medibridge.health_monitoring.infrastructure.persistence.jpa.repositories.PatientRepository;
+import pe.edu.upc.vitalsync.medibridge.health_monitoring.infraestructure.persistence.jpa.repositories.DoctorRepository;
+import pe.edu.upc.vitalsync.medibridge.health_monitoring.infraestructure.persistence.jpa.repositories.PatientRepository;
 import pe.edu.upc.vitalsync.medibridge.messaging.domain.model.aggregates.Conversation;
 import pe.edu.upc.vitalsync.medibridge.messaging.domain.model.commands.*;
 import pe.edu.upc.vitalsync.medibridge.messaging.domain.services.ConversationCommandService;
