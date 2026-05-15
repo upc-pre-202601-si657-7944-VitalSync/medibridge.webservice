@@ -1,4 +1,4 @@
-package pe.edu.upc.vitalia.vitalia_backend.shared.infrastructure.persistence.jpa.configuration.strategy;
+package pe.edu.upc.vitalsync.medibridge.shared.infrastructure.persistence.jpa.configuration.strategy;
 
 import io.github.encryptorcode.pluralize.Pluralize;
 import org.hibernate.boot.model.naming.CamelCaseToUnderscoresNamingStrategy;

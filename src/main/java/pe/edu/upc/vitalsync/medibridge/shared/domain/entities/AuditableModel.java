@@ -1,4 +1,4 @@
-package pe.edu.upc.vitalia.vitalia_backend.shared.domain.entities;
+package pe.edu.upc.vitalsync.medibridge.shared.domain.entities;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.EntityListeners;

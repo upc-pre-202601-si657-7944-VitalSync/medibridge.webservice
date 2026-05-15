@@ -1,4 +1,4 @@
-package pe.edu.upc.vitalia.vitalia_backend.shared.domain.aggregates;
+package pe.edu.upc.vitalsync.medibridge.shared.domain.aggregates;
 
 import jakarta.persistence.*;
 import lombok.Getter;

@@ -1,4 +1,4 @@
-package pe.edu.upc.vitalia.vitalia_backend.shared.infrastructure.documentation.openapi.configuration;
+package pe.edu.upc.vitalsync.medibridge.shared.infrastructure.documentation.openapi.configuration;
 
 import io.swagger.v3.oas.models.ExternalDocumentation;
 import io.swagger.v3.oas.models.OpenAPI;
