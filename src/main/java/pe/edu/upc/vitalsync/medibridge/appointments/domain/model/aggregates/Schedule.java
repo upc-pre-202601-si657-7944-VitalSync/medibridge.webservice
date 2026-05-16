@@ -7,7 +7,7 @@ import jakarta.validation.constraints.NotNull;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-import pe.edu.upc.vitalsync.medibridgeshared.domain.aggregates.AuditableAbstractAggregateRoot;
+import pe.edu.upc.vitalsync.medibridge.shared.domain.aggregates.AuditableAbstractAggregateRoot;
 
 import java.time.LocalTime;
 

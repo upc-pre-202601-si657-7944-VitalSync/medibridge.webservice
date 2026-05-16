@@ -9,7 +9,7 @@ import pe.edu.upc.vitalsync.medibridge.appointments.infrastructure.persistence.j
 
 import java.util.List;
 import java.util.Optional;
-F
+
 @Service
 @Transactional(readOnly = true)
 @RequiredArgsConstructor

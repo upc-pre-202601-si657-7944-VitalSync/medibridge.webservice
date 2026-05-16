@@ -13,7 +13,7 @@ import pe.edu.upc.vitalsync.medibridge.appointments.infrastructure.persistence.j
 @Service
 @Transactional
 @RequiredArgsConstructor
-public class AppointmentCommandServiceImpl implements pe.edu.upc.vitalsync.medibridge..appointments.domain.services.AppointmentCommandService {
+public class AppointmentCommandServiceImpl implements pe.edu.upc.vitalsync.medibridge.appointments.domain.services.AppointmentCommandService {
 
     private final AppointmentRepository appointmentRepository;
 
